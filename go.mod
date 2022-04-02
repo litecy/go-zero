@@ -60,4 +60,4 @@ require (
 	k8s.io/klog/v2 v2.40.1 // indirect
 )
 
-replace github.com/zeromicro/go-zero => co.mengtuhuyu.com/kuber/go-zero latest
+replace github.com/zeromicro/go-zero => co.mengtuhuyu.com/kuber/go-zero feat/v2

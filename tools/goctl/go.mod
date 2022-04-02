@@ -16,5 +16,5 @@ require (
 	github.com/zeromicro/go-zero v1.3.1
 )
 
-replace github.com/zeromicro/go-zero => co.mengtuhuyu.com/kuber/go-zero latest
-replace github.com/zeromicro/go-zero/tools/goctl => co.mengtuhuyu.com/kuber/go-zero/tools/goctl latest
+replace github.com/zeromicro/go-zero => co.mengtuhuyu.com/kuber/go-zero feat/v2
+replace github.com/zeromicro/go-zero/tools/goctl => co.mengtuhuyu.com/kuber/go-zero/tools/goctl feat/v2
