@@ -1,4 +1,4 @@
-module github.com/zeromicro/go-zero
+module co.mengtuhuyu.com/kuber/go-zero
 
 go 1.15
 
@@ -59,3 +59,5 @@ require (
 	google.golang.org/genproto v0.0.0-20220228195345-15d65a4533f7 // indirect
 	k8s.io/klog/v2 v2.40.1 // indirect
 )
+
+replace github.com/zeromicro/go-zero => co.mengtuhuyu.com/kuber/go-zero latest

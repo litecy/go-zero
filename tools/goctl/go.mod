@@ -15,3 +15,5 @@ require (
 	github.com/zeromicro/ddl-parser v1.0.3
 	github.com/zeromicro/go-zero v1.3.1
 )
+
+replace github.com/zeromicro/go-zero => co.mengtuhuyu.com/kuber/go-zero latest
