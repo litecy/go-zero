@@ -17,3 +17,4 @@ require (
 )
 
 replace github.com/zeromicro/go-zero => co.mengtuhuyu.com/kuber/go-zero latest
+replace github.com/zeromicro/go-zero/tools/goctl => co.mengtuhuyu.com/kuber/go-zero/tools/goctl latest
