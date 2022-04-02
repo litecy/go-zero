@@ -1,4 +1,4 @@
-module co.mengtuhuyu.com/kuber/go-zero
+module github.com/litecy/go-zero
 
 go 1.15
 
@@ -60,4 +60,4 @@ require (
 	k8s.io/klog/v2 v2.40.1 // indirect
 )
 
-replace github.com/zeromicro/go-zero => co.mengtuhuyu.com/kuber/go-zero feat/v2
+replace github.com/zeromicro/go-zero => github.com/litecy/go-zero feat/v3
